@@ -36,3 +36,5 @@ Proxmox Mail Gateway ofrece una serie de características avanzadas para protege
 
 - **Actualizaciones Regulares**: Proxmox proporciona actualizaciones regulares de software para mejorar la seguridad y las funcionalidades.
 - **Comunidad y Soporte Comercial**: Amplia documentación y una comunidad activa, además de opciones de soporte comercial para empresas que necesitan asistencia profesional.
+
+![image](/imagenes/implementar-Proxmox-Mail-Gateway.jpg)
