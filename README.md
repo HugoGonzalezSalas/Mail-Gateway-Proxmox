@@ -1,6 +1,6 @@
 # Mail Gateway Proxmox
 
-![image](screen1.png)
+![image](/imagenes/screen1.png)
 
 1. [Que es Proxmox?](proxmox.md)
 2. [Que es una Mail Gateway?](gateway.md)
