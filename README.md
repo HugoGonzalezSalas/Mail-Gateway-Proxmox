@@ -17,3 +17,4 @@
 [Hugo Gonzalez Salas](https://github.com/HugoGonzalezSalas)
 
 ## Licencia
+![image](/imagenes/licencia.jpg)
